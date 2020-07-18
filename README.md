@@ -1,4 +1,4 @@
-# Hand_Wriiten_Recoginaton
+# Hand_Written_Recoginaton
 # Masters project
 Handwritten Digit Recognition USING NEURAL NETWORK( Back Propagation Algorithm
 
